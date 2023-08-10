@@ -1,3 +1,3 @@
-# Untitled-CRM
+# Digitol.io
 
-Don't worry we can change the name later :D
+The world's premiere customer relational manager for small businesses
